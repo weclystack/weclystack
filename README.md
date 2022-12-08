@@ -1,4 +1,4 @@
-![MasterHead](https://twistdev.my.id/Developer%20(1).gif)
+![MasterHead](https://twistdev.my.id/Developer.gif)
 <h1 align="center">Hi 👋, I'm weclystack</h1>
 <h3 align="center">I'm a passionate Frontend Developer And CTF Wrestler From Indonesia</h3>
 
