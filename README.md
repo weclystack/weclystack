@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm weclystack</h1>
 <h3 align="center">I'm a passionate Frontend Developer And CTF Wrestler From Indonesia</h3>
-<img align="right" alt="Coding" width="400" height="400" src="https://media.tenor.com/Yg8O2WDlGkYAAAAi/cyrentec-sci-fi.gif">
+<img align="right" alt="Coding" width="350" height="400" src="https://media.tenor.com/Yg8O2WDlGkYAAAAi/cyrentec-sci-fi.gif">
 
 
 
