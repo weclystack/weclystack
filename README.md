@@ -1,4 +1,4 @@
-[![MasterHead](https://josusb.com/images/previews/rootme.gif)]
+![MasterHead](https://twistdev.my.id/rootme1.gif)
 <h1 align="center">Hi 👋, I'm weclystack</h1>
 <h3 align="center">I'm a passionate Frontend Developer And CTF Wrestler From Indonesia</h3>
 
