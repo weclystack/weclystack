@@ -14,9 +14,9 @@
 
 - 🤝 I’m looking for help with **CTF , App Devoloper (Dart)**
 
-- 👨‍💻 All of my projects are available at [https://weclystack.biz.id](https://weclystack.biz.id)
+- 👨‍💻 All of my projects are available at [https://www.weclystack.biz.id](https://weclystack.biz.id)
 
-- 📝 I regularly write articles on [https://blog.weclystack.biz.id](https://blog.weclystack.biz.id)
+- 📝 I regularly write articles on [https://www.blog.weclystack.biz.id](https://blog.weclystack.biz.id)
 
 - 💬 Ask me about **Dart, CTF , React , Flutter**
 
