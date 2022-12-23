@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Dart, CTF , React , Flutter**
 
-- 📫 How to reach me **root@weclystack.biz.id**
+- 📫 How to reach me **info@weclystack.biz.id**
 
 - ⚡ Fun fact **I think I am Funy**
 
