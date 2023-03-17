@@ -16,11 +16,11 @@
 
 - 👨‍💻 All of my projects are available at [www.weclystack.dev](https://www.weclystack.dev)
 
-- 📝 I regularly write articles on [blog.programplex.dev](https://blog.programplex.dev/)
+- 📝 I regularly write articles on [thecyberswat.com](https://thecyberswat.com/)
 
 - 💬 Ask me about **Dart, CTF , React , Flutter**
 
-- 📫 How to reach me **root@weclystack.dev**
+- 📫 How to reach me **heyy@thecyberswat.com**
 
 - ⚡ Fun fact **I think I am Funy**
 
