@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [www.weclystack.dev](https://www.weclystack.dev)
 
-- 📝 I regularly write articles on [thecyberswat.com](https://thecyberswat.com/)
+- 📝 I regularly write articles on [www.thecyberswat.com](https://thecyberswat.com/)
 
 - 💬 Ask me about **Dart, CTF , React , Flutter**
 
